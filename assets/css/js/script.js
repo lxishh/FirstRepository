@@ -3,5 +3,5 @@ function saludar(){
 }
 
 function chao(){
-    alert("Chao");
+    alert("Chao nos vemos");
 }
